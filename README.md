@@ -1,4 +1,5 @@
 # belajar-kolaborasi
 
-Halo! Namaku Cloudya
-Lancar-lancar ya belajarnya di Dicoding!
+Halo! Namaku Cloudya<br>
+Lancar-lancar ya belajarnya di Dicoding!<br>
+Semangatttt!!<3
